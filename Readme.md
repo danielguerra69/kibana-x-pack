@@ -1,7 +1,7 @@
 # About
 
-Elasticsearch & Kibana with x-pack plugin installed.
-Build from the official elasticsearch repo.
+Kibana 6 with x-pack plugin installed.
+Based on alpine linux for minimal size.
 
 # Usage
 
